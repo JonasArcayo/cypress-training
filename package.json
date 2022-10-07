@@ -1,0 +1,22 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "Learn how to write fast and robust Automated (UI + Integration) Tests using Cypress with Mocha and Cucumber frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasArcayo/cypress-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasArcayo/cypress-training/issues"
+  },
+  "homepage": "https://github.com/JonasArcayo/cypress-training#readme",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
+}
